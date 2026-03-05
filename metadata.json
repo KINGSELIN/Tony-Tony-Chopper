@@ -1,0 +1,8 @@
+{
+  "name": "Remix: TONY TONY CHOPPER Osteoporosis Support System",
+  "description": "A responsive, gamified patient support platform for osteoporosis management featuring AI-driven medical report analysis, health tracking, and interactive insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
